@@ -1,6 +1,5 @@
-# Fully Automated Youtube Channel
-
-Code to run a fully automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
+# Fully Automated Meme Compilation Generator
+Code to run a fully automated meme compilation generator that can scrape content from instagram and create a compilation video.
 
 This program is used for the Meme Caviar YouTube Channel (https://www.youtube.com/c/monkeytoad11_or_thejstone2002/)
 
